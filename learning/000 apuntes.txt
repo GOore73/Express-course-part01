@@ -1,0 +1,3 @@
+Características
+
+unopinionated: no te dice cómo usuarlo exáctamente.
